@@ -44,7 +44,7 @@ const Navbar = () => {
         >
           {/* <img src={logo} alt='logo' className='w-16 h-15 object-contain' /> */}
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Vaibhv &nbsp;
+            Vaibhav &nbsp;
             <span className='sm:block hidden'> | Senior Cloud Engineer</span>
           </p>
         </Link>
